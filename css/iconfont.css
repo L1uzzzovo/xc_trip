@@ -1,0 +1,93 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1691132969077') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sydney1162852easyiconnet:before {
+  content: "\e623";
+}
+
+.icon-wifi:before {
+  content: "\e783";
+}
+
+.icon-xinyongqia:before {
+  content: "\e785";
+}
+
+.icon-jiudian:before {
+  content: "\e63e";
+}
+
+.icon-youleyuan:before {
+  content: "\e8e3";
+}
+
+.icon-balitieta:before {
+  content: "\e84d";
+}
+
+.icon-xiangdaoa:before {
+  content: "\e640";
+}
+
+.icon-gangaoziyouhang:before {
+  content: "\e6ca";
+}
+
+.icon-dunpaibaoxianrenzheng:before {
+  content: "\eb17";
+}
+
+.icon-gengduo:before {
+  content: "\e693";
+}
+
+.icon-meishilin:before {
+  content: "\e508";
+}
+
+.icon-jipiao:before {
+  content: "\e648";
+}
+
+.icon-gouwu:before {
+  content: "\e68c";
+}
+
+.icon-sousuo:before {
+  content: "\e618";
+}
+
+.icon-waibiduihuan:before {
+  content: "\e6ad";
+}
+
+.icon-lipinka:before {
+  content: "\e60a";
+}
+
+.icon-zhoubianyou:before {
+  content: "\e619";
+}
+
+.icon-rentou:before {
+  content: "\e62f";
+}
+
+.icon-biaojidian:before {
+  content: "\e9dc";
+}
+
+.icon-jingqujingdian:before {
+  content: "\e757";
+}
+
